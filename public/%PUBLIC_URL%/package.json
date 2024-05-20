@@ -3,7 +3,7 @@
     "version": "0.1.0",
     "private": true,
     "main": "index.js",
-    "homepage": "http://ihend47.github.io/issachendersondev",
+    "homepage": "http://ihend47.github.io/portfolio",
     "dependencies": {
       "@react-pdf/renderer": "^2.2.0",
       "@testing-library/jest-dom": "^5.16.2",
